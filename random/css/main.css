@@ -1,0 +1,13 @@
+h6{
+    color: red;
+    text-align: center;
+}
+
+body{
+    background-image: url(../image/jess-bailey-l3N9Q27zULw-unsplash.jpg);
+    background-size: cover;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+}
